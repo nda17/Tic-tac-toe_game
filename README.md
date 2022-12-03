@@ -1,6 +1,6 @@
 ## Tic-tac-toe_game 
 
-# «Игра Крестики-нолики (Tic-tac-toe)» [ссылка на страницу](https://nfdmitry.github.io/Noemi-blog/)
+# «Игра Крестики-нолики (Tic-tac-toe)» [ссылка на страницу](https://nfdmitry.github.io/Tic-tac-toe_game/)
 
 ## Фронтенд часть проекта реализована при помощи HTML/CSS, логика реализована на JavaScript.
 
