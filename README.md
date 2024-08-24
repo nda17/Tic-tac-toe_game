@@ -1,6 +1,6 @@
 # _Tic-tac-toe-game_
 
-## «Tic-Tac-Toe-game» [link to page](https://nda17.github.io/Tic-tac-toe_game/)
+## [Link to page](https://nda17.github.io/Tic-tac-toe_game/)
 
 ## _Used stack:_
 - [x] HTML
