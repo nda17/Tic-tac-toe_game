@@ -1,23 +1,23 @@
-## Tic-tac-toe_game 
+## Tic-tac-toe-game
+---
 
-# «Игра Крестики-нолики (Tic-Tac-Toe)» [ссылка на страницу](https://nda17.github.io/Tic-tac-toe_game/)
+# «Tic-Tac-Toe-game» [link to page](https://nda17.github.io/Tic-tac-toe_game/)
 
-## Фронтенд часть проекта реализована при помощи HTML/CSS, логика реализована на JavaScript.
+---
 
-## Принцип работы игры:
+## _Used stack:_
+- [x] HTML
+- [x] CSS
+- [x] Javascript vanilla
 
-Когда страница загружается, вызывается функция startGame. Функция определяет кто ходит первый, затем создается и отрисовывается игровое поле.
+---
 
-Когда игрок кликает на игровом поле, происходит вызов функции click. Ставится метка игрока в этом поле, отрисовывается поле на экране. 
+## Game mechanics:
 
-Далее идет проверка, не выиграл ли игрок. Если выиграл, то появляется поздравление победителя, а если ещё нет — передается ход следующему игроку.
+- When the page loads, the startGame function is called. The function determines who goes first, then the playing field is created and drawn.
+- When the player clicks on the playing field, the click function is called. The player's mark is placed in this field, and the field is drawn on the screen.
+- There is a check to see if the player has won. If you win, then the winner’s congratulations appear, and if not yet, the turn is transferred to the next player.
 
-## Внутреннее устройство игры делится на три части:
 
-- логическая модель игры;
-- отрисовка логической модели на экране 
-- реакция на действия игрока 
 
-Игровое поле — таблица 3х3 клетки. Игровое поле реализовано в виде массива массивов.
-Для отрисовки на экране нового состояния игрового поля вызывается функция renderBoard в которую передается информация о поле в виде массива.
-Если игра заканчивается победой одного из игроков, вызывается функция showWinner в которую передается игрок-победитель.
+
