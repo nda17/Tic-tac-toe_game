@@ -1,16 +1,11 @@
-## Tic-tac-toe-game
----
+# Tic-tac-toe-game
 
-# «Tic-Tac-Toe-game» [link to page](https://nda17.github.io/Tic-tac-toe_game/)
-
----
+#№ «Tic-Tac-Toe-game» [link to page](https://nda17.github.io/Tic-tac-toe_game/)
 
 ## _Used stack:_
 - [x] HTML
 - [x] CSS
 - [x] Javascript vanilla
-
----
 
 ## Game mechanics:
 
